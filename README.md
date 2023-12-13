@@ -1,3 +1,3 @@
 # gitDemo
 Creating new repository(Repo) <br>
-Author: Rahul Shrestha 
+Author: Rahul Shrestha (github User)
